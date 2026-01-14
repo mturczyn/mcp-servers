@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|c:\\users\\mt\\source\\testprojects\\mcpservercsharpconsole\\mcpservercsharpconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|solutionrelative:mcpservercsharpconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|c:\\users\\mt\\source\\testprojects\\mcpservercsharpconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|c:\\users\\mt\\source\\testprojects\\mcpservercsharpconsole\\services\\monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|solutionrelative:services\\monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|c:\\users\\mt\\source\\testprojects\\mcpservercsharpconsole\\mcptools\\monkeytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A09DA-ED2B-01B2-5339-EED19F030E10}|mcpservercsharpconsole.csproj|solutionrelative:mcptools\\monkeytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:24:14.274Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mcpservercsharpconsole",
+              "DocumentMoniker": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\mcpservercsharpconsole.csproj",
+              "RelativeDocumentMoniker": "mcpservercsharpconsole.csproj",
+              "ToolTip": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\mcpservercsharpconsole.csproj",
+              "RelativeToolTip": "mcpservercsharpconsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T10:27:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonkeyService.cs",
+              "DocumentMoniker": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\Services\\MonkeyService.cs",
+              "RelativeDocumentMoniker": "Services\\MonkeyService.cs",
+              "ToolTip": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\Services\\MonkeyService.cs",
+              "RelativeToolTip": "Services\\MonkeyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:24:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonkeyTools.cs",
+              "DocumentMoniker": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\McpTools\\MonkeyTools.cs",
+              "RelativeDocumentMoniker": "McpTools\\MonkeyTools.cs",
+              "ToolTip": "C:\\Users\\MT\\source\\testprojects\\mcpservercsharpconsole\\McpTools\\MonkeyTools.cs",
+              "RelativeToolTip": "McpTools\\MonkeyTools.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:24:14.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
